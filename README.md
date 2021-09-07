@@ -45,3 +45,13 @@ print("Goodbye")
 else:
 print("Oops - incorrect input")
 
+
+# Section B: Domain Speciality
+
+The Jupyter Notebook used in this section was coded for JavaScript.
+In this section we were required to perform Exploratory Data Analysis on a dataset of our choosing and required to do the following:
+You then need to:
+● Read in the dataset.
+● Clean the dataset, motivating your steps.
+● Analyse the dataset, including appropriate visualisations
+Note down all the findings and conclusions you’re making in a report at the end
