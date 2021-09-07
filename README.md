@@ -18,7 +18,7 @@ SMS object.
 Thanks,
 Student
 
-# An SMS Simulation class SMSMessage(object):
+> An SMS Simulation class SMSMessage(object):
 hasBeenRead = False messageText = text fromNumber = number
 def __init__(self,hasBeenRead,messageText,fromNumber):
 self.hasBeenRead = False self.messageText = text
@@ -39,8 +39,8 @@ while userChoice != "quit":
 userChoice = raw_input("What would you like to do -
 read/send/quit?")
 if userChoice == "read":
-# Place your logic here elif userChoice == "send": #
-Place your logic here elif userChoice == "quit":
+> Place your logic here elif userChoice == "send": 
+>Place your logic here elif userChoice == "quit":
 print("Goodbye")
 else:
 print("Oops - incorrect input")
