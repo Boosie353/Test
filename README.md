@@ -55,3 +55,15 @@ You then need to:
 ● Clean the dataset, motivating your steps.
 ● Analyse the dataset, including appropriate visualisations
 Note down all the findings and conclusions you’re making in a report at the end
+
+# Section C: Problem-Solving
+
+Please implement the K-means algorithm and meet the following requirements:
+● For the dataset, generate the dataset using built-in tools from the
+programming language. Use your preferred labels for the outputs.
+● There should be two options to train the model: either train the model with
+defaults for the number of iterations and the “k” value or accept user input
+for the same values.
+● Present your findings regarding the clusters, either using visualisations (for
+this, pick any library you see fit) or by printing them in a tabular format.
+● Pick any evaluation metric(s) you see fit and report on your findings.
