@@ -67,3 +67,11 @@ for the same values.
 ● Present your findings regarding the clusters, either using visualisations (for
 this, pick any library you see fit) or by printing them in a tabular format.
 ● Pick any evaluation metric(s) you see fit and report on your findings.
+
+# Section D: Asymptotic Computational Complexity
+Option 2: Time Complexity
+Please report on the following:
+● The worst-case time complexity of the “Collection.add” method.
+● At least two alternative designs that would improve the worst-case time
+complexity without using arrays or any other predefined collection type.
+● The worst-case time complexity of the alternative designs.
