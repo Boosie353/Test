@@ -56,6 +56,8 @@ You then need to:
 ● Analyse the dataset, including appropriate visualisations
 Note down all the findings and conclusions you’re making in a report at the end
 
+The data used was from the following link https://www.google.com/covid19/mobility/index.html?hl=en . The file size is unfortunately too large to be loaded on Github even after compressing the file.
+
 # Section C: Problem-Solving
 
 Please implement the K-means algorithm and meet the following requirements:
